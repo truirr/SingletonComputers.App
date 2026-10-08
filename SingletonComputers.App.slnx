@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SingletonComputers.App/SingletonComputers.App.csproj" />
+  <Project Path="SingletonComputers.Library/SingletonComputers.Library.csproj" />
+</Solution>
